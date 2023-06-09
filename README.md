@@ -14,7 +14,7 @@
 
 * `ls `
  
- * `cd Termux-STERMUX-SETUP`
+ * `cd TERMUX-SETUP`
  
  * `ls `
  
