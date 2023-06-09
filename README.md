@@ -8,13 +8,13 @@
 
 * `pkg install git`
 
-* `rm -rf Termux-Setup `
+* `rm -rf TERMUX-SETUP`
 
 * `git clone https://github.com/MR-RAHAD-511/TERMUX-SETUP`
 
 * `ls `
  
- * `cd Termux-Setup `
+ * `cd Termux-STERMUX-SETUP`
  
  * `ls `
  
